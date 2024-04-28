@@ -13,10 +13,12 @@
   },
   "devDependencies": {
     "@formkit/auto-animate": "^0.8.2",
+    "@iconify/svelte": "^3.1.6",
     "@sveltejs/adapter-node": "^3.0.0",
     "@sveltejs/kit": "^2.0.0",
     "@sveltejs/vite-plugin-svelte": "^3.0.0",
     "autoprefixer": "^10.4.19",
+    "node-fetch": "^3.3.2",
     "postcss": "^8.4.38",
     "prettier": "^3.1.1",
     "prettier-plugin-svelte": "^3.1.2",
